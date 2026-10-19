@@ -22,3 +22,5 @@ def assistente_virtuale():
             print("Non ho capito la domanda.")
             assistente_virtuale()
     return
+
+assistente_virtuale()
